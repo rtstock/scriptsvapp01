@@ -1,0 +1,1 @@
+"C:\Anaconda\python.exe" "C:\Batches\AutomationProjects\Watcher\code\python\watcher.py" \\ipc-vsql01\Data\Batches\prod\WatchFolder\watch-for-changes-here C:\Batches\AutomationProjects\Watcher\code\bat\$execute_watcher-folder-processing.bat 
